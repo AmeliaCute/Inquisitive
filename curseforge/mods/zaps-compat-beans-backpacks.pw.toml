@@ -1,0 +1,13 @@
+name = "Zap's Compat (Beans Backpacks)"
+filename = "ZapsCompatBeansBackpacks-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "138f39b5e8489f85931f3408164eb4aa7c0a4833"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6085591
+project-id = 1179280

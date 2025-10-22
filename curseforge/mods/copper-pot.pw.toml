@@ -1,0 +1,13 @@
+name = "Copper Pot"
+filename = "CopperPot-1.20.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJa9l8Zi/versions/LlVs6zmD/CopperPot-1.20.1-2.0.3.jar"
+hash-format = "sha512"
+hash = "b4c394a63bc024d1b08dd5eb350b10fa5a7515a1c82e370b21597aecee5b8c014f701c532fdea422d27f83bed4ea7b311cdfa1ce8151e608251c05f8c01186cf"
+
+[update]
+[update.modrinth]
+mod-id = "YJa9l8Zi"
+version = "LlVs6zmD"

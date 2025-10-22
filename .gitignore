@@ -3,8 +3,8 @@
 !github/
 !github/**/*
 
-!mods
-!mods/**/*
+!curseforge
+!curseforge/**/*
 
 !config/
 !config/**/*

@@ -1,0 +1,13 @@
+name = "Doom & Gloom"
+filename = "Doom  Gloom 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "778a5207da83f9d5c982476f3c0002a1b5d557d9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6661382
+project-id = 1130903

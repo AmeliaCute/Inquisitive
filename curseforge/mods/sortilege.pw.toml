@@ -1,0 +1,13 @@
+name = "Sortilege"
+filename = "Sortilege-1.20.1-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GyVUSbid/versions/ackD7fC9/Sortilege-1.20.1-1.7.2.jar"
+hash-format = "sha512"
+hash = "e2393d44577c73fed458f4358dbfa320d83aa04d4c07848383600520aa615eb561ecddbb06ef722d72ddf6ee72597a44e66243178efcb98a64de480b4ca8ca1a"
+
+[update]
+[update.modrinth]
+mod-id = "GyVUSbid"
+version = "ackD7fC9"

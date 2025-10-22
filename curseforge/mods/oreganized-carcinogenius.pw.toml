@@ -1,0 +1,13 @@
+name = "Carcinogenius"
+filename = "Oreganized Carcinogenius 1.20.1-4.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73c09befc4ee3cd9dc082e36c94730b95defc850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6962675
+project-id = 1279957

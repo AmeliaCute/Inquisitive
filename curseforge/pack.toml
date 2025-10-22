@@ -1,0 +1,13 @@
+name = "Inquisitive"
+author = "Liamgrayskull"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e1b845d8a885103dfc2075074a067e126135f1626f5d3bd6c8841575585a2825"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

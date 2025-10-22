@@ -1,0 +1,13 @@
+name = "Poscendo"
+filename = "Poscendo-1.20.1-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1764e594085b604d3f16571d02919394be4f5bbb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6090460
+project-id = 841904
